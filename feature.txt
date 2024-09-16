@@ -1,4 +1,5 @@
 this is a feature file
+making changes to show git merge
 
 adding conflicting change
 given
