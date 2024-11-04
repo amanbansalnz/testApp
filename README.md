@@ -1,4 +1,6 @@
-hello readme
+readme
+
+
  
 updating readme to show git status
 adding changes
