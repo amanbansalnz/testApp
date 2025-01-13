@@ -1,4 +1,6 @@
 readme
+i
+	:21
 
  
 updating readme to show git status
