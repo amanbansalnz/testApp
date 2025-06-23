@@ -1,5 +1,4 @@
-hello readme
-making changes for testing purpose 
+Hello Readme 1 
 making second changes  
 updating readme to show git status
 adding changes
