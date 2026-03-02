@@ -1,4 +1,6 @@
 this is a feature file
+
+updating to show commit shortcut
 making changes to show git merge
 When I update this file 2
 
